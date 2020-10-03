@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов» [![Build status][travis-image]][travis-url]
 
 * Студент: [Елена Есина](https://up.htmlacademy.ru/react/5/user/261907).
-* Наставник: `Неизвестно`.
+* Наставник: [Иван Шалагин](https://up.htmlacademy.ru/react/5/user/386947).
 
 ---
 
